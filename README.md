@@ -1,5 +1,5 @@
 # Finans
- Este projeto teve como objetivo a criação de um site fictício, o Finans, ele é um site que oferece um software de gestão financeira, utilizando bootstrap o que torna o site 100% responsivo.
+ Este projeto teve como objetivo a criação de um site fictício, o Finans, ele é um site que oferece um software de gestão financeira, o site foi desenvovido utilizando bootstrap o que torna o site 100% responsivo.
  
   ***
  
